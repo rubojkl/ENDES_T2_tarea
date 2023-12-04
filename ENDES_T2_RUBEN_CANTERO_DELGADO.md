@@ -6,45 +6,65 @@
 ## Paso 2: Configurar la clave SSH
 - Sigue las para configurar tu clave SSH.
 - `ssh-keygen -t rsa -C "your_email@example.com"`
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/3d955545-d08f-4db5-9880-b4c378202715)
+
+-![1](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/9d958a58-16d6-463c-b34f-e752c93dfc9a)
+
 - Copia la key
 - clip < ~/.ssh/id_rsa.pub
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/8bdbc43b-657c-4aec-a130-68bd92b33606)
-Pegala en github
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/7df7bd06-46c8-4c8a-9053-f84cb67fb49f)
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/02af5f7f-87d1-446e-912e-5d5e32f53ba6)
+  
+![2](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/627b87e4-5c5f-466c-a71b-d38cca27d06c)
+
+- Pegala en github
+
+![3](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/d0b81529-00b8-4451-989e-a34854f3813a)
+
+![4](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/96d7464b-4e77-4f3c-a425-6f1b91d64114)
+
 
 ## Paso 3: Crear un repositorio público
 - Crea un nuevo repositorio llamado "ENDES_T2_tarea" en GitHub.
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/a8064799-acb9-4bdc-aaf9-920c8a6507c1)
+
+![5](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/404d2290-46e4-4d83-b793-2a9fc4fc9adc)
+
 
 ## Paso 4: Clonar el repositorio
 - Abre Git Bash.
 - Ejecuta: `git clone git@github.com:tu-usuario/ENDES_T2_tarea.git` (reemplaza `tu-usuario` con tu nombre de usuario).
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/058403fb-3a47-45a5-8f9b-5a98b2bd71b1)
+
+![6](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/6cfea821-9485-44c5-973c-0545f9cc79fc)
 
 ## Paso 5: Mostrar contenidos de la carpeta
 - En la carpeta del repositorio, ejecuta: `ls`.
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/041f21f3-f938-45da-b4a8-cc230ff3893a)
+  
+![7](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/241bca73-9011-4c7f-84da-c6e0743c66c5)
+
 
 ## Paso 6: Captura de git status (repositorio al día)
 - Ejecuta: `git status`.
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/903d4ef2-08c2-41be-a68d-a9f0454cbfd1)
+  
+![8](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/09d820f7-8fec-4001-bdde-adcf109313f9)
+
 
 ## Paso 7: Captura de git status (archivo nuevo)
 - Crea un archivo.
 - Ejecuta: `git status`.
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/3d4a7a11-e90d-4b60-aa6f-643298fec4f2)
+
+![9](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/da9f3985-360b-4436-807e-56ea4fda23cc)
+
 
 ## Paso 8: Captura de git status (archivos en staged)
 - Agrega el archivo con: `git add nombre-del-archivo`.
 - Ejecuta: `git status`.
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/01c4eaa5-24ac-4940-8fa5-1d34d652a365)
+  
+![10](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/142cc0cb-411e-45ee-8674-27e298a9965d)
+
 
 ## Paso 9: Captura de git status (repositorio local no sincronizado)
 - Realiza cambios.
 - Ejecuta: `git status`.
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/30da2ba5-ce4c-4de6-aef7-930e3d4bceed)
+
+![11](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/f412fb8f-b44e-46e9-9d16-fc404f578ca0)
+
 
 ## Paso 10: Sincronizar con GitHub
 - Ejecuta:
@@ -52,5 +72,6 @@ Pegala en github
   git add .
   git commit -m "Mensaje del commit"
   git push origin main
-(https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/a3c33cdf-a22a-4bc0-a53a-8cec6f13f2f9)
+
+![12](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/3e27cf06-84a6-4035-8177-bd2c8f989179)
 
