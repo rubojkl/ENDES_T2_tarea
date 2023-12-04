@@ -1,5 +1,7 @@
 # ENDES_T2_tarea
 
+# Ejercicio 1
+
 ## Paso 1: Crear un perfil en GitHub
 - Regístrate en [GitHub](https://github.com/).
 
@@ -74,4 +76,66 @@
   git push origin main
 
 ![12](https://github.com/rubojkl/ENDES_T2_tarea/assets/125838940/3e27cf06-84a6-4035-8177-bd2c8f989179)
+
+# Ejercicio 2
+
+**Visual Studio Code (VS Code):**
+- *Lenguajes de programación:*
+  - Admite una amplia gama de lenguajes de programación, lo que lo hace muy versátil.
+
+- *Facilidad de uso:*
+  - Interfaz de usuario sencilla.
+  - Amplia personalización.
+
+- *Entornos de desarrollo:*
+  - Ligero y eficiente, inicia rápidamente y es fácil de configurar.
+
+- *Depuración:*
+  - Ofrece una sólida capacidad de depuración con funciones como puntos de interrupción y visualización de variables.
+
+- *Gestión de versiones:*
+  - Integra herramientas de gestión de versiones como Git de manera nativa.
+
+- *Personalización y extensibilidad:*
+  - Muy personalizable a través de extensiones, con un amplio mercado.
+
+- *Otros aspectos:*
+  - Comunidad activa y soporte continuo con actualizaciones frecuentes.
+
+**PyCharm:**
+- *Lenguajes de programación:*
+  - Está especializado principalmente en Python, pero también es compatible con otros lenguajes.
+
+- *Facilidad de uso:*
+  - Interfaz completa para un flujo de trabajo específico para Python.
+
+- *Entornos de desarrollo:*
+  - Ofrece un conjunto completo de herramientas específicas para el desarrollo en Python.
+
+- *Depuración:*
+  - Características avanzadas de depuración, como análisis de código y herramientas de refactorización.
+
+- *Gestión de versiones:*
+  - Integración completa con sistemas de control de versiones como Git.
+
+- *Personalización y extensibilidad:*
+  - Admite plugins para ampliar sus capacidades, aunque con un enfoque más específico.
+
+- *Otros aspectos:*
+  - Opciones gratuitas y de pago según las necesidades del usuario.
+
+  # Ejercicio 3
+
+## Mi IDe escogido es VisualStudio por los siguientes motivos;
+  - Es gratis y de codigo abierto
+  - Esta disponible en linux, macOS y windows
+  - Es muy ligero
+  - Un gran soporte por parte de la comunidad
+  - Buena integracion con git
+  - Muy personalizable
+  - Depuracion integrada
+## Resumen
+  - Desde que empece a usarlo he descubierto que es de lo mas completo que he usado y por los anteriores motivos seguire con el de momento
+
+
 
